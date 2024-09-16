@@ -1,2 +1,2 @@
 # Sumo-console-based-game
-Консольная игра про сумоистов на с++. Механика игры довольно простая - выбираешь сначала себе бойца, а потом выбираешь себе противника. После всех выборов начинается отсчёт до боя, по завершению отсчёта начинается 10 секундный бой и вконце пишется результат битвы. Результат битвы определяется случайным образом.
+A console game about sumo wrestlers in c++. The mechanics of the game are quite simple - you choose your fighter first, and then you choose your opponent. After all the elections, the countdown to the battle begins, at the end of the countdown, a 10-second battle begins and the result of the battle is finally written. The result of the battle is determined randomly.
